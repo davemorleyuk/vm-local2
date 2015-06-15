@@ -1,0 +1,9 @@
+[submodule "chef/cookbooks/vim"]
+	path = chef/cookbooks/vim
+	url = https://github.com/opscode-cookbooks/vim
+[submodule "chef/cookbooks/apt"]
+	path = chef/cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt
+[submodule "chef/cookbooks/yum"]
+	path = chef/cookbooks/yum
+	url = https://github.com/opscode-cookbooks/yum
